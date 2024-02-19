@@ -15,7 +15,8 @@ const routes = [
       { path: 'tasks', component: () => import('../pages/TasksPage.vue') },
       { path: 'alerts', component: () => import('../pages/AlertsPage.vue') },
       { path: 'resources', component: () => import('../pages/ResourcesPage.vue') },
-      { path: 'timeline', component: () => import('../pages/TimelinePage.vue') }
+      { path: 'timeline', component: () => import('../pages/TimelinePage.vue') },
+      { path: 'questionnaire', component: () => import('../pages/QuestionnairePage.vue') }
     ]
   },
 

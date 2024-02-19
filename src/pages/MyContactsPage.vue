@@ -8,7 +8,7 @@ export default defineComponent({
 
 <template>
   <q-page class="flex flex-center">
-    <h1>My Contacts </h1>
+    <h1>My Contacts test </h1>
 
   </q-page>
 </template>
